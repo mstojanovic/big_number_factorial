@@ -1,0 +1,6 @@
+C:\Users\mstojano\Desktop\faktorijela\faktorijela\bin\Debug\faktorijela.exe.config
+C:\Users\mstojano\Desktop\faktorijela\faktorijela\bin\Debug\faktorijela.exe
+C:\Users\mstojano\Desktop\faktorijela\faktorijela\bin\Debug\faktorijela.pdb
+C:\Users\mstojano\Desktop\faktorijela\faktorijela\obj\Debug\faktorijela.csprojResolveAssemblyReference.cache
+C:\Users\mstojano\Desktop\faktorijela\faktorijela\obj\Debug\faktorijela.exe
+C:\Users\mstojano\Desktop\faktorijela\faktorijela\obj\Debug\faktorijela.pdb
